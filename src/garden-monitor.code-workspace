@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../docs"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"print": "cpp"
+		}
+	}
+}
